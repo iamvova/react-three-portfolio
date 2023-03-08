@@ -11,6 +11,7 @@
 # production
 /build
 /public/img
+/src/components/key.js
 
 # misc
 .DS_Store
